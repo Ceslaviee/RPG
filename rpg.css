@@ -1,0 +1,77 @@
+body
+{   
+    
+    background-color:black;
+    border : 4px solid white;
+    left : 15%;
+    right : 15%;
+    align-items : center;
+
+}
+
+p
+{
+    color:white;
+    justify-content: center;
+}
+
+p1
+{
+    color:white;
+    text-align: right;
+    display: flex ;
+}
+
+div
+{
+    color: white;
+}
+
+Item
+{
+    height: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+Interface 
+{
+    height: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+#maDivAtk
+{
+    background-image: url("../Act.png");
+}
+
+Bouclier
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+Baton
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+Etoile
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+Epee 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
