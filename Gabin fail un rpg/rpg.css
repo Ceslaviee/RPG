@@ -1,0 +1,84 @@
+body
+{   
+    
+    background-image: url("undertale.png");
+    border : 4px solid white;
+    left : 20%;
+    right : 20%;
+    align-items : center;
+
+}
+
+p
+{
+    color:white;
+    justify-content: center;
+}
+
+p1
+{
+    color:white;
+    text-align: right;
+    display: flex ;
+}
+
+div
+{
+    color: white;
+}
+
+Item
+{
+    height: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+Interface 
+{
+    height: 15%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+#maDivAtk
+{
+    background-image: url("../Act.png");
+}
+
+Bouclier
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+Baton
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Etoile
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+Epee 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+Monstre
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
